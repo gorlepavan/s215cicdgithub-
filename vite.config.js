@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react-swc'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "https://github.com/gorlepavan/s215cicdgithub-.git",
+  base: "/s215cicdgithub/",
   plugins: [react()],
 })
